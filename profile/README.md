@@ -14,11 +14,11 @@ Transform user checkout experiences with our intelligent card scanning technolog
 
 | SDK Repository | Description |
 |---------------|-------------|
-| [PHP SDK](https://github.com/my-org/auth-api-php) | PHP SDK for integrating authentication services |
-| [Python SDK](https://github.com/my-org/auth-api-python) | Python client for authentication and token handling |
-| [Java SDK](https://github.com/my-org/auth-api-java) | Java client library for Auth API |
-| [JavaScript SDK](https://github.com/my-org/auth-api-js) | JavaScript SDK for browser and Node.js |
-| [Go SDK](https://github.com/my-org/auth-api-go) | Go client for authentication services |
+| [PHP SDK](https://github.com/mobicardsystemsltd/scanapi-php) | PHP SDK for Scan API |
+| [Python SDK](https://github.com/mobicardsystemsltd/scanapi-python) | Python client for Scan API |
+| [Java SDK](https://github.com/mobicardsystemsltd/scanapi-java) | Java client library for Scan API |
+| [Nodejs SDK](https://github.com/mobicardsystemsltd/scanapi-nodejs) | Nodejs SDK for Scan API |
+| [Curl SDK](https://github.com/mobicardsystemsltd/scanapi-curl) | Curl client for Scan API|
 
 ---
 
@@ -27,11 +27,11 @@ Dramatically reduce your PCI DSS compliance scope by replacing sensitive card da
 
 | SDK Repository | Description |
 |---------------|-------------|
-| [PHP SDK](https://github.com/my-org/payments-api-php) | PHP client for payments integration |
-| [Python SDK](https://github.com/my-org/payments-api-python) | Python SDK for payment processing |
-| [Java SDK](https://github.com/my-org/payments-api-java) | Java SDK for payment services |
-| [JavaScript SDK](https://github.com/my-org/payments-api-js) | JS SDK for web and backend payments |
-| [Go SDK](https://github.com/my-org/payments-api-go) | Go client for Payments API |
+| [PHP SDK](https://github.com/mobicardsystemsltd/mobitoken-php) | PHP client for MobiToken API |
+| [Python SDK](https://github.com/mobicardsystemsltd/mobitoken-python) | Python SDK for MobiToken API |
+| [Java SDK](https://github.com/mobicardsystemsltd/mobitoken-java) | Java SDK for MobiToken API |
+| [Nodejs SDK](https://github.com/mobicardsystemsltd/mobitoken-nodejs) | NodeJS SDK for MobiToken API |
+| [Curl SDK](https://github.com/mobicardsystemsltd/mobitoken-curl) | Curl client for MobiToken API |
 
 ---
 
@@ -41,11 +41,11 @@ Make intelligent payment decisions with real-time card issuer data. Identify car
 
 | SDK Repository | Description |
 |---------------|-------------|
-| [PHP SDK](https://github.com/my-org/accounts-api-php) | PHP SDK for user accounts |
-| [Python SDK](https://github.com/my-org/accounts-api-python) | Python client for account management |
-| [Java SDK](https://github.com/my-org/accounts-api-java) | Java accounts management SDK |
-| [JavaScript SDK](https://github.com/my-org/accounts-api-js) | JavaScript SDK for accounts |
-| [Go SDK](https://github.com/my-org/accounts-api-go) | Go client for Accounts API |
+| [PHP SDK](https://github.com/mobicardsystemsltd/mobi-biin-php) | PHP SDK for MobiBiin API |
+| [Python SDK](https://github.com/mobicardsystemsltd/mobi-biin-python) | Python client for MobiBiin API|
+| [Java SDK](https://github.com/mobicardsystemsltd/mobi-biin-java) | Java client for MobiBiin API |
+| [Nodejs SDK](https://github.com/mobicardsystemsltd/mobi-biin-nodejs) | Nodejs SDK for MobiBiin API |
+| [Curl SDK](https://github.com/mobicardsystemsltd/mobi-biin-curl) | Curl client for MobiBiin API |
 
 ---
 
@@ -55,11 +55,11 @@ Access realâ€‘time foreign exchange rates for global financial applications, eâ€
 
 | SDK Repository | Description |
 |---------------|-------------|
-| [PHP SDK](https://github.com/my-org/reporting-api-php) | PHP reporting client |
-| [Python SDK](https://github.com/my-org/reporting-api-python) | Python SDK for reports and analytics |
-| [Java SDK](https://github.com/my-org/reporting-api-java) | Java SDK for reporting services |
-| [JavaScript SDK](https://github.com/my-org/reporting-api-js) | JavaScript reporting SDK |
-| [Go SDK](https://github.com/my-org/reporting-api-go) | Go client for Reporting API |
+| [PHP SDK](https://github.com/mobicardsystemsltd/mobirates-php) | PHP client for MobiRates API|
+| [Python SDK](https://github.com/mobicardsystemsltd/mobirates-python) | Python SDK for MobiRates API |
+| [Java SDK](https://github.com/mobicardsystemsltd/mobirates-java) | Java SDK for MobiRates API |
+| [Nodejs SDK](https://github.com/mobicardsystemsltd/mobirates-nodejs) | Nodejs SDK for MobiRates API |
+| [Curl SDK](https://github.com/mobicardsystemsltd/mobirates-curl) | Curl client for MobiRates API |
 
 ---
 
