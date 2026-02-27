@@ -12,10 +12,29 @@ This page serves as a **central index** to all available APIs and SDKs.
 ## 🔐 Scan API
 Transform user checkout experiences with our intelligent card scanning technology. Let users scan or upload payment cards to automatically extract and validate card data.
 
+### MobiCard ScanAPI
+
+Use this multi-platform API to enhance your end-user's card checkout experience by letting them scan (or upload) their payment cards. Extract the card number, expiry date, brand information, EXIF data, Risk information and perform validation checks and card tokenization automatically. Code samples are provided.
+
+With two implementation methods to select from depending on your use case.
+
+### Method 1
+Use method 1 with our scan card UI template (HTML/CSS/JS WebStack) to quickly get started or method 2 below.
+
+### Method 2
+Incase you need to have more control over your UI or when developing mobile applications (by securely passing the card image base64 string).
+#### Best For: 
+Mobile apps (iOS/Android), custom UI implementations, or when you already have image data in base64 format.
+#### Note: 
+The value for the "status" response parameter is always either "SUCCESS" or "FAILED" for this API. Use this to determine subsequent actions. 
+
+### Technical Difference: 
+Method 1 accepts the actual image file ('mobicard_scan_card_photo') as multipart form-data while Method 2 accepts the card image's base64 string ('mobicard_scan_card_photo_base64_string') within the initial request access token call. 
+
 | SDK Repository | Description |
 |---------------|-------------|
-| [Camera/Upload PHP SDK](https://github.com/mobicardsystemsltd/scanapi-php) | PHP SDK for Scan API using device Camera |
-| [Image Base64 String PHP SDK](https://github.com/mobicardsystemsltd/scanapi-base64-php) | PHP SDK for developers who want full control over their UI/UX.  |
+| [Camera/Upload PHP SDK](https://github.com/mobicardsystemsltd/scanapi-php) | (Method 1) PHP SDK for Scan API using device Camera |
+| [Image Base64 String PHP SDK](https://github.com/mobicardsystemsltd/scanapi-base64-php) | (Method 2) PHP SDK for developers who want full control over their UI/UX.  |
 | [Python SDK](https://github.com/mobicardsystemsltd/scanapi-python) | Python client for Scan API |
 | [Java SDK](https://github.com/mobicardsystemsltd/scanapi-java) | Java client library for Scan API |
 | [Nodejs SDK](https://github.com/mobicardsystemsltd/scanapi-nodejs) | Nodejs SDK for Scan API |
