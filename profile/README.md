@@ -14,7 +14,8 @@ Transform user checkout experiences with our intelligent card scanning technolog
 
 | SDK Repository | Description |
 |---------------|-------------|
-| [PHP SDK](https://github.com/mobicardsystemsltd/scanapi-php) | PHP SDK for Scan API |
+| [Camera/Upload PHP SDK](https://github.com/mobicardsystemsltd/scanapi-php) | PHP SDK for Scan API using device Camera |
+| [Image Base64 String PHP SDK](https://github.com/mobicardsystemsltd/scanapi-base64-php) | PHP SDK for Scan API using device Camera |
 | [Python SDK](https://github.com/mobicardsystemsltd/scanapi-python) | Python client for Scan API |
 | [Java SDK](https://github.com/mobicardsystemsltd/scanapi-java) | Java client library for Scan API |
 | [Nodejs SDK](https://github.com/mobicardsystemsltd/scanapi-nodejs) | Nodejs SDK for Scan API |
