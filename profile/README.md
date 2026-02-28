@@ -11,6 +11,7 @@ Each SDK lives in its **own repository** with full documentation, installation g
 This page serves as a **central index** to all available APIs and SDKs.
 
 ---
+---
 
 ## 🔐 Payment Card Scan API
 ### MobiCard ScanAPI
