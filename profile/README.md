@@ -18,6 +18,7 @@ This page serves as a **central index** to all available APIs and SDKs.
 Transform user checkout experiences with our intelligent card scanning technology. Let users scan or upload payment cards to automatically extract and validate card data.
 
 Use Cases:
+
 **E-commerce checkout:** Allow users to use their device camera to scan their card instead of manually typing card numbers.
 
 **Mobile apps:** A smooth payment card entry experience for apps selling goods or services.
@@ -41,6 +42,7 @@ With two implementation methods to select from depending on your use case.
 
 ### Technical Difference: 
 Method 1 accepts the actual image file ('mobicard_scan_card_photo') as multipart form-data while Method 2 accepts the card image's base64 string ('mobicard_scan_card_photo_base64_string') within the initial request access token call. 
+
     
 ##### Method1
 | SDK Repository | Description |
@@ -50,6 +52,7 @@ Method 1 accepts the actual image file ('mobicard_scan_card_photo') as multipart
 | [Camera/Upload Java SDK](https://github.com/mobicardsystemsltd/scanapi-method1-java) | Java client library for Scan API |
 | [Camera/Upload Nodejs SDK](https://github.com/mobicardsystemsltd/scanapi-method1-nodejs) | Nodejs SDK for Scan API |
 | [Camera/Upload Curl SDK](https://github.com/mobicardsystemsltd/scanapi-method1-curl) | Curl client for Scan API|
+
 
 ##### Method2
 | SDK Repository | Description |
