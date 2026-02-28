@@ -1,8 +1,8 @@
-# Mobicard Developer Platform – APIs & SDKs
+# MobiCard Developer Platform – APIs & SDKs
 
 Welcome to our developer platform 👋  
 
-Mobicard offers a unified collection of APIs designed to simplify payment card handling, reduce PCI scope, enhance fraud controls, and enable global financial integrations.
+MobiCard offers a unified collection of APIs designed to simplify payment card handling, reduce PCI scope, enhance fraud controls, and enable global financial integrations.
 Each SDK lives in its **own repository** with full documentation, installation guides, and examples.  
 
 This page serves as a **central index** to all available APIs and SDKs.
