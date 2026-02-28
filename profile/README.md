@@ -51,7 +51,7 @@ Method 1 accepts the actual image file ('mobicard_scan_card_photo') as multipart
 | [Scan Card Python SDK](https://github.com/mobicardsystemsltd/scanapi-method1-python) | Python client for Scan API |
 | [Scan Card Java SDK](https://github.com/mobicardsystemsltd/scanapi-method1-java) | Java client library for Scan API |
 | [Scan Card NodeJS SDK](https://github.com/mobicardsystemsltd/scanapi-method1-nodejs) | NodeJS SDK for Scan API |
-| [Scan Card Curl SDK](https://github.com/mobicardsystemsltd/scanapi-method1-curl) | Curl client for Scan API|
+| [Scan Card cURL SDK](https://github.com/mobicardsystemsltd/scanapi-method1-curl) | Curl client for Scan API|
 
 
 
@@ -73,7 +73,7 @@ Method 1 accepts the actual image file ('mobicard_scan_card_photo') as multipart
 | [Scan Card Base64 Python SDK](https://github.com/mobicardsystemsltd/scanapi-method2-python) | Python client for Scan API |
 | [Scan Card Base64 Java SDK](https://github.com/mobicardsystemsltd/scanapi-method2-java) | Java client library for Scan API |
 | [Scan Card Base64 NodeJS SDK](https://github.com/mobicardsystemsltd/scanapi-method2-nodejs) | NodeJS SDK for Scan API |
-| [Scan Card Base64 Curl SDK](https://github.com/mobicardsystemsltd/scanapi-method2-curl) | Curl client for Scan API|
+| [Scan Card Base64 cURL SDK](https://github.com/mobicardsystemsltd/scanapi-method2-curl) | Curl client for Scan API|
 
 
 ---
@@ -86,11 +86,11 @@ Dramatically reduce your PCI DSS compliance scope by replacing sensitive card da
 
 | SDK Repository | Description |
 |---------------|-------------|
-| [Tokenization API PHP SDK](https://github.com/mobicardsystemsltd/mobitoken-php) | PHP client for MobiToken API |
-| [Tokenization API Python SDK](https://github.com/mobicardsystemsltd/mobitoken-python) | Python SDK for MobiToken API |
-| [Tokenization API Java SDK](https://github.com/mobicardsystemsltd/mobitoken-java) | Java SDK for MobiToken API |
-| [Tokenization API NodeJS SDK](https://github.com/mobicardsystemsltd/mobitoken-nodejs) | NodeJS SDK for MobiToken API |
-| [Tokenization API Curl SDK](https://github.com/mobicardsystemsltd/mobitoken-curl) | Curl client for MobiToken API |
+| [Tokenization PHP SDK](https://github.com/mobicardsystemsltd/mobitoken-php) | PHP client for MobiToken API |
+| [Tokenization Python SDK](https://github.com/mobicardsystemsltd/mobitoken-python) | Python SDK for MobiToken API |
+| [Tokenization Java SDK](https://github.com/mobicardsystemsltd/mobitoken-java) | Java SDK for MobiToken API |
+| [Tokenization NodeJS SDK](https://github.com/mobicardsystemsltd/mobitoken-nodejs) | NodeJS SDK for MobiToken API |
+| [Tokenization cURL SDK](https://github.com/mobicardsystemsltd/mobitoken-curl) | Curl client for MobiToken API |
 
 ---
 ---
@@ -102,11 +102,11 @@ Make intelligent payment decisions with real-time card issuer data. Identify car
 
 | SDK Repository | Description |
 |---------------|-------------|
-| [BIIN API PHP SDK](https://github.com/mobicardsystemsltd/mobi-biin-php) | PHP SDK for MobiBiin API |
-| [BIIN API Python SDK](https://github.com/mobicardsystemsltd/mobi-biin-python) | Python client for MobiBiin API|
-| [BIIN API Java SDK](https://github.com/mobicardsystemsltd/mobi-biin-java) | Java client for MobiBiin API |
-| [BIIN API NodeJS SDK](https://github.com/mobicardsystemsltd/mobi-biin-nodejs) | NodeJS SDK for MobiBiin API |
-| [BIIN API Curl SDK](https://github.com/mobicardsystemsltd/mobi-biin-curl) | Curl client for MobiBiin API |
+| [BIIN Lookup PHP SDK](https://github.com/mobicardsystemsltd/mobi-biin-php) | PHP SDK for MobiBiin API |
+| [BIIN Lookup Python SDK](https://github.com/mobicardsystemsltd/mobi-biin-python) | Python client for MobiBiin API|
+| [BIIN Lookup Java SDK](https://github.com/mobicardsystemsltd/mobi-biin-java) | Java client for MobiBiin API |
+| [BIIN Lookup NodeJS SDK](https://github.com/mobicardsystemsltd/mobi-biin-nodejs) | NodeJS SDK for MobiBiin API |
+| [BIIN Lookup cURL SDK](https://github.com/mobicardsystemsltd/mobi-biin-curl) | Curl client for MobiBiin API |
 
 ---
 ---
@@ -118,11 +118,11 @@ Access realâ€‘time foreign exchange rates for global financial applications, eâ€
 
 | SDK Repository | Description |
 |---------------|-------------|
-| [Forex Rates API PHP SDK](https://github.com/mobicardsystemsltd/mobirates-php) | PHP client for MobiRates API|
-| [Forex Rates API Python SDK](https://github.com/mobicardsystemsltd/mobirates-python) | Python SDK for MobiRates API |
-| [Forex Rates API Java SDK](https://github.com/mobicardsystemsltd/mobirates-java) | Java SDK for MobiRates API |
-| [Forex Rates API NodeJS SDK](https://github.com/mobicardsystemsltd/mobirates-nodejs) | NodeJS SDK for MobiRates API |
-| [Forex Rates API Curl SDK](https://github.com/mobicardsystemsltd/mobirates-curl) | Curl client for MobiRates API |
+| [Forex Rates PHP SDK](https://github.com/mobicardsystemsltd/mobirates-php) | PHP client for MobiRates API|
+| [Forex Rates Python SDK](https://github.com/mobicardsystemsltd/mobirates-python) | Python SDK for MobiRates API |
+| [Forex Rates Java SDK](https://github.com/mobicardsystemsltd/mobirates-java) | Java SDK for MobiRates API |
+| [Forex Rates NodeJS SDK](https://github.com/mobicardsystemsltd/mobirates-nodejs) | NodeJS SDK for MobiRates API |
+| [Forex Rates cURL SDK](https://github.com/mobicardsystemsltd/mobirates-curl) | Curl client for MobiRates API |
 
 ---
 
