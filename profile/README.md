@@ -103,11 +103,11 @@ Make intelligent payment decisions with real-time card issuer data. Identify car
 
 | SDK Repository | Description |
 |---------------|-------------|
-| [Tokenization API PHP SDK](https://github.com/mobicardsystemsltd/mobi-biin-php) | PHP SDK for MobiBiin API |
-| [Tokenization API Python SDK](https://github.com/mobicardsystemsltd/mobi-biin-python) | Python client for MobiBiin API|
-| [Tokenization API Java SDK](https://github.com/mobicardsystemsltd/mobi-biin-java) | Java client for MobiBiin API |
-| [Tokenization API Nodejs SDK](https://github.com/mobicardsystemsltd/mobi-biin-nodejs) | Nodejs SDK for MobiBiin API |
-| [Tokenization API Curl SDK](https://github.com/mobicardsystemsltd/mobi-biin-curl) | Curl client for MobiBiin API |
+| [BIIN API PHP SDK](https://github.com/mobicardsystemsltd/mobi-biin-php) | PHP SDK for MobiBiin API |
+| [BIIN API Python SDK](https://github.com/mobicardsystemsltd/mobi-biin-python) | Python client for MobiBiin API|
+| [BIIN API Java SDK](https://github.com/mobicardsystemsltd/mobi-biin-java) | Java client for MobiBiin API |
+| [BIIN API Nodejs SDK](https://github.com/mobicardsystemsltd/mobi-biin-nodejs) | Nodejs SDK for MobiBiin API |
+| [BIIN API Curl SDK](https://github.com/mobicardsystemsltd/mobi-biin-curl) | Curl client for MobiBiin API |
 
 ---
 ---
@@ -119,11 +119,11 @@ Access realâ€‘time foreign exchange rates for global financial applications, eâ€
 
 | SDK Repository | Description |
 |---------------|-------------|
-| [Tokenization API PHP SDK](https://github.com/mobicardsystemsltd/mobirates-php) | PHP client for MobiRates API|
-| [Tokenization API Python SDK](https://github.com/mobicardsystemsltd/mobirates-python) | Python SDK for MobiRates API |
-| [Tokenization API Java SDK](https://github.com/mobicardsystemsltd/mobirates-java) | Java SDK for MobiRates API |
-| [Tokenization API Nodejs SDK](https://github.com/mobicardsystemsltd/mobirates-nodejs) | Nodejs SDK for MobiRates API |
-| [Tokenization API Curl SDK](https://github.com/mobicardsystemsltd/mobirates-curl) | Curl client for MobiRates API |
+| [Forex Rates API PHP SDK](https://github.com/mobicardsystemsltd/mobirates-php) | PHP client for MobiRates API|
+| [Forex Rates API Python SDK](https://github.com/mobicardsystemsltd/mobirates-python) | Python SDK for MobiRates API |
+| [Forex Rates API Java SDK](https://github.com/mobicardsystemsltd/mobirates-java) | Java SDK for MobiRates API |
+| [Forex Rates API Nodejs SDK](https://github.com/mobicardsystemsltd/mobirates-nodejs) | Nodejs SDK for MobiRates API |
+| [Forex Rates API Curl SDK](https://github.com/mobicardsystemsltd/mobirates-curl) | Curl client for MobiRates API |
 
 ---
 
