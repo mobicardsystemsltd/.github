@@ -65,6 +65,7 @@ Method 1 accepts the actual image file ('mobicard_scan_card_photo') as multipart
 
 
 ---
+---
 
 ## 💳 Tokenization API
 ### MobiToken API
@@ -94,6 +95,7 @@ Make intelligent payment decisions with real-time card issuer data. Identify car
 | [Nodejs SDK](https://github.com/mobicardsystemsltd/mobi-biin-nodejs) | Nodejs SDK for MobiBiin API |
 | [Curl SDK](https://github.com/mobicardsystemsltd/mobi-biin-curl) | Curl client for MobiBiin API |
 
+---
 ---
 
 ## 📊 Forex Rates API
