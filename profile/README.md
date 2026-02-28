@@ -55,7 +55,6 @@ Method 1 accepts the actual image file ('mobicard_scan_card_photo') as multipart
 | [Scan Card API Curl SDK](https://github.com/mobicardsystemsltd/scanapi-method1-curl) | Curl client for Scan API|
 
 
-Mobile & Hybrid App Integration
 
 | SDK Repository | Description |
 |---------------|-------------|
