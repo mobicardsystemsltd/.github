@@ -45,7 +45,7 @@ With two implementation methods to select from depending on your use case.
 Method 1 accepts the actual image file ('mobicard_scan_card_photo') as multipart form-data while Method 2 accepts the card image's base64 string ('mobicard_scan_card_photo_base64_string') within the initial request access token call. 
 
     
-##### Method1
+##### Method 1
 | SDK Repository | Description |
 |---------------|-------------|
 | [Scan Card API PHP SDK](https://github.com/mobicardsystemsltd/scanapi-method1-php) | PHP SDK for Scan API using device Camera |
@@ -68,7 +68,7 @@ Mobile & Hybrid App Integration
 
 
 
-##### Method2
+##### Method 2
 | SDK Repository | Description |
 |---------------|-------------|
 | [Scan Card API Base64 PHP SDK](https://github.com/mobicardsystemsltd/scanapi-method2-php) | PHP SDK for developers who want full control over their UI/UX.  |
