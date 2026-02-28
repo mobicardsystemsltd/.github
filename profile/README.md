@@ -31,15 +31,14 @@ Use this multi-platform API to enhance your end-user's card checkout experience 
 With two implementation methods to select from depending on your use case.
 
 #### Method 1
-    Use method 1 with our scan card UI template (HTML/CSS/JS WebStack) to quickly get started or method 2 below.
+Use method 1 with our scan card UI template (HTML/CSS/JS WebStack) to quickly get started or method 2 below.
 
 #### Method 2
-    Incase you need to have more control over your UI or when developing mobile applications (by securely passing the card image base64 string). This method is Best For: 
+Incase you need to have more control over your UI or when developing mobile applications (by securely passing the card image base64 string). This method is Best For: 
     Mobile apps (iOS/Android), custom UI implementations, or when you already have image data in base64 format.
     
-    Note:
-    
-        The value for the "status" response parameter is always either "SUCCESS" or "FAILED" for this API. Use this to determine subsequent actions. 
+Note:
+    The value for the "status" response parameter is always either "SUCCESS" or "FAILED" for this API. Use this to determine subsequent actions. 
 
 ### Technical Difference: 
 Method 1 accepts the actual image file ('mobicard_scan_card_photo') as multipart form-data while Method 2 accepts the card image's base64 string ('mobicard_scan_card_photo_base64_string') within the initial request access token call. Method 1 is a 2-step API call process while Method 2 involves a single API call.
