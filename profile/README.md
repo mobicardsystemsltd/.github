@@ -1,4 +1,4 @@
-# MobiCard Developer Platform – APIs & SDKs
+# MobiCard – APIs & SDKs
 
 Welcome to our developer platform 👋  
 
