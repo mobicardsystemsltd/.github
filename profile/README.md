@@ -62,7 +62,7 @@ Method 1 accepts the actual image file ('mobicard_scan_card_photo') as multipart
 | [Flutter Implementation](https://github.com/mobicardsystemsltd/scanapi-flutter) | Python client for Scan API |
 | [Ionic Implementation](https://github.com/mobicardsystemsltd/scanapi-ionic) | Java client library for Scan API |
 | [PWA Implementation](https://github.com/mobicardsystemsltd/scanapi-pwa) | Nodejs SDK for Scan API |
-
+| [Pure Javascript Implementation](https://github.com/mobicardsystemsltd/scanapi-javascript) | Javascript SDK for Scan API |
 
 
 
