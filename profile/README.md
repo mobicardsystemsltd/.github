@@ -3,25 +3,35 @@
 Welcome to our developer platform 👋  
 
 MobiCard offers a unified collection of APIs designed to simplify payment card handling, reduce PCI scope, enhance fraud controls, and enable global financial integrations.
+
+All API calls require an initial JWT Token API request.
+
 Each SDK lives in its **own repository** with full documentation, installation guides, and examples.  
 
 This page serves as a **central index** to all available APIs and SDKs.
 
 ---
 
-## 🔐 Scan API
+## 🔐 Payment Card Scan API
+### MobiCard ScanAPI
+
 Transform user checkout experiences with our intelligent card scanning technology. Let users scan or upload payment cards to automatically extract and validate card data.
 
-### MobiCard ScanAPI
+Use Cases:
+**E-commerce checkout:** Allow users to use their device camera to scan their card instead of manually typing card numbers.
+
+**Mobile apps:** A smooth payment card entry experience for apps selling goods or services.
+
+**Back-office onboarding:** Enterprises ingest card details faster and more reliably when adding payment methods to user profiles.
 
 Use this multi-platform API to enhance your end-user's card checkout experience by letting them scan (or upload) their payment cards. Extract the card number, expiry date, brand information, EXIF data, Risk information and perform validation checks and card tokenization automatically. Code samples are provided.
 
 With two implementation methods to select from depending on your use case.
 
-### Method 1
+#### Method 1
     Use method 1 with our scan card UI template (HTML/CSS/JS WebStack) to quickly get started or method 2 below.
 
-### Method 2
+#### Method 2
     Incase you need to have more control over your UI or when developing mobile applications (by securely passing the card image base64 string). This method is Best For: 
     Mobile apps (iOS/Android), custom UI implementations, or when you already have image data in base64 format.
     
@@ -53,7 +63,9 @@ Method 1 accepts the actual image file ('mobicard_scan_card_photo') as multipart
 
 ---
 
-## 💳 MobiToken API
+## 💳 Tokenization API
+### MobiToken API
+
 Dramatically reduce your PCI DSS compliance scope by replacing sensitive card data with secure cryptographic tokens that can't be reverse-engineered.
 
 | SDK Repository | Description |
@@ -66,7 +78,8 @@ Dramatically reduce your PCI DSS compliance scope by replacing sensitive card da
 
 ---
 
-## 👤 MobiBiin API
+## 👤 BIIN / BIN Lookup API
+### MobiBiin API
 
 Make intelligent payment decisions with real-time card issuer data. Identify card schemes, issuer banks, and risk factors instantly for every transaction.
 
@@ -80,7 +93,8 @@ Make intelligent payment decisions with real-time card issuer data. Identify car
 
 ---
 
-## 📊 MobiRates API
+## 📊 Forex Rates API
+### MobiRates API
 
 Access real‑time foreign exchange rates for global financial applications, e‑commerce platforms, and international payment systems.
 
@@ -96,7 +110,6 @@ Access real‑time foreign exchange rates for global financial applications, e�
 
 ## 📚 Documentation & Standards
 
-- All APIs are documented using **OpenAPI**
 - SDKs follow consistent naming and versioning conventions
 - Backward compatibility is maintained where possible
 
@@ -106,7 +119,7 @@ Access real‑time foreign exchange rates for global financial applications, e�
 
 - Please open issues in the **relevant SDK repository**
 - Pull requests are welcome
-- For security issues, contact us privately
+- For security issues, contact us privately via support@mobicardsystems.com
 
 ---
 
