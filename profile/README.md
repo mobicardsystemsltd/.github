@@ -34,8 +34,8 @@ Method 1 accepts the actual image file ('mobicard_scan_card_photo') as multipart
 
 | SDK Repository | Description |
 |---------------|-------------|
-| [Camera/Upload PHP SDK](https://github.com/mobicardsystemsltd/scanapi-php) | (Method 1) PHP SDK for Scan API using device Camera |
-| [Image Base64 String PHP SDK](https://github.com/mobicardsystemsltd/scanapi-base64-php) | (Method 2) PHP SDK for developers who want full control over their UI/UX.  |
+| [Camera/Upload PHP SDK](https://github.com/mobicardsystemsltd/scanapi-method1-php) | (Method 1) PHP SDK for Scan API using device Camera |
+| [Image Base64 String PHP SDK](https://github.com/mobicardsystemsltd/scanapi-method2-php) | (Method 2) PHP SDK for developers who want full control over their UI/UX.  |
 | [Camera/Upload Python SDK](https://github.com/mobicardsystemsltd/scanapi-python) | (Method 1) Python client for Scan API |
 | [Image Base64 Python SDK](https://github.com/mobicardsystemsltd/scanapi-base64-python) | (Method 2) Python client for Scan API |
 | [Camera/Upload Java SDK](https://github.com/mobicardsystemsltd/scanapi-java) | (Method 1) Java client library for Scan API |
