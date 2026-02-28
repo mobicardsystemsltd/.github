@@ -42,7 +42,7 @@ With two implementation methods to select from depending on your use case.
         The value for the "status" response parameter is always either "SUCCESS" or "FAILED" for this API. Use this to determine subsequent actions. 
 
 ### Technical Difference: 
-Method 1 accepts the actual image file ('mobicard_scan_card_photo') as multipart form-data while Method 2 accepts the card image's base64 string ('mobicard_scan_card_photo_base64_string') within the initial request access token call. 
+Method 1 accepts the actual image file ('mobicard_scan_card_photo') as multipart form-data while Method 2 accepts the card image's base64 string ('mobicard_scan_card_photo_base64_string') within the initial request access token call. Method 1 is a 2-step API call process while Method 2 involves a single API call.
 
     
 ##### Method 1
