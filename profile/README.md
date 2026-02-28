@@ -31,10 +31,10 @@ Use this multi-platform API to enhance your end-user's card checkout experience 
 With two implementation methods to select from depending on your use case.
 
 #### Method 1
-Use method 1 with our scan card UI template (HTML/CSS/JS WebStack) to quickly get started or method 2 below.
+> Use method 1 with our scan card UI template (HTML/CSS/JS WebStack) to quickly get started or method 2 below.
 
 #### Method 2
-Incase you need to have more control over your UI or when developing mobile applications (by securely passing the card image base64 string). This method is Best For: 
+> Incase you need to have more control over your UI or when developing mobile applications (by securely passing the card image base64 string). This method is Best For: 
     Mobile apps (iOS/Android), custom UI implementations, or when you already have image data in base64 format.
     
 Note:
