@@ -54,6 +54,15 @@ Method 1 accepts the actual image file ('mobicard_scan_card_photo') as multipart
 | [Scan Card API Nodejs SDK](https://github.com/mobicardsystemsltd/scanapi-method1-nodejs) | Nodejs SDK for Scan API |
 | [Scan Card API Curl SDK](https://github.com/mobicardsystemsltd/scanapi-method1-curl) | Curl client for Scan API|
 
+Mobile & Hybrid App Integration
+
+| SDK Repository | Description |
+|---------------|-------------|
+| [React Native / Expo Implementation](https://github.com/mobicardsystemsltd/scanapi-method1-php) | PHP SDK for Scan API using device Camera |
+| [Flutter Implementation](https://github.com/mobicardsystemsltd/scanapi-method1-python) | Python client for Scan API |
+| [Ionic Implementation](https://github.com/mobicardsystemsltd/scanapi-method1-java) | Java client library for Scan API |
+| [PWA Implementation](https://github.com/mobicardsystemsltd/scanapi-method1-nodejs) | Nodejs SDK for Scan API |
+
 
 ##### Method2
 | SDK Repository | Description |
