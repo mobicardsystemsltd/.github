@@ -82,7 +82,7 @@ Method 1 accepts the actual image file ('mobicard_scan_card_photo') as multipart
 ## 💳 Tokenization API
 ### MobiToken API
 
-Dramatically reduce your PCI DSS compliance scope by replacing sensitive card data with secure cryptographic tokens that can't be reverse-engineered.
+Dramatically reduce your PCI DSS compliance scope by replacing sensitive card data with secure, processor-agnostic cryptographic tokens that can't be reverse-engineered.
 
 | SDK Repository | Description |
 |---------------|-------------|
