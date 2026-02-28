@@ -31,19 +31,25 @@ With two implementation methods to select from depending on your use case.
 
 ### Technical Difference: 
 Method 1 accepts the actual image file ('mobicard_scan_card_photo') as multipart form-data while Method 2 accepts the card image's base64 string ('mobicard_scan_card_photo_base64_string') within the initial request access token call. 
-
+    
+##### Method1
 | SDK Repository | Description |
 |---------------|-------------|
-| [Camera/Upload PHP SDK](https://github.com/mobicardsystemsltd/scanapi-method1-php) | (Method 1) PHP SDK for Scan API using device Camera |
-| [Image Base64 String PHP SDK](https://github.com/mobicardsystemsltd/scanapi-method2-php) | (Method 2) PHP SDK for developers who want full control over their UI/UX.  |
-| [Camera/Upload Python SDK](https://github.com/mobicardsystemsltd/scanapi-python) | (Method 1) Python client for Scan API |
-| [Image Base64 Python SDK](https://github.com/mobicardsystemsltd/scanapi-base64-python) | (Method 2) Python client for Scan API |
-| [Camera/Upload Java SDK](https://github.com/mobicardsystemsltd/scanapi-java) | (Method 1) Java client library for Scan API |
-| [Image Base64 Java SDK](https://github.com/mobicardsystemsltd/scanapi-base64-java) | (Method 2) Java client library for Scan API |
-| [Camera/Upload Nodejs SDK](https://github.com/mobicardsystemsltd/scanapi-nodejs) | (Method 1) Nodejs SDK for Scan API |
-| [Image Base64 Nodejs SDK](https://github.com/mobicardsystemsltd/scanapi-base64-nodejs) | (Method 2) Nodejs SDK for Scan API |
-| [Camera/Upload Curl SDK](https://github.com/mobicardsystemsltd/scanapi-curl) | (Method 1) Curl client for Scan API|
-| [Image Base64 Curl SDK](https://github.com/mobicardsystemsltd/scanapi-base64-curl) | (Method 2) Curl client for Scan API|
+| [Camera/Upload PHP SDK](https://github.com/mobicardsystemsltd/scanapi-method1-php) | PHP SDK for Scan API using device Camera |
+| [Camera/Upload Python SDK](https://github.com/mobicardsystemsltd/scanapi-method1-python) | Python client for Scan API |
+| [Camera/Upload Java SDK](https://github.com/mobicardsystemsltd/scanapi-method1-java) | Java client library for Scan API |
+| [Camera/Upload Nodejs SDK](https://github.com/mobicardsystemsltd/scanapi-method1-nodejs) | Nodejs SDK for Scan API |
+| [Camera/Upload Curl SDK](https://github.com/mobicardsystemsltd/scanapi-method1-curl) | Curl client for Scan API|
+
+##### Method2
+| SDK Repository | Description |
+|---------------|-------------|
+| [Image Base64 String PHP SDK](https://github.com/mobicardsystemsltd/scanapi-method2-php) | PHP SDK for developers who want full control over their UI/UX.  |
+| [Image Base64 Python SDK](https://github.com/mobicardsystemsltd/scanapi-method2-python) | Python client for Scan API |
+| [Image Base64 Java SDK](https://github.com/mobicardsystemsltd/scanapi-method2-java) | Java client library for Scan API |
+| [Image Base64 Nodejs SDK](https://github.com/mobicardsystemsltd/scanapi-method2-nodejs) | Nodejs SDK for Scan API |
+| [Image Base64 Curl SDK](https://github.com/mobicardsystemsltd/scanapi-method2-curl) | Curl client for Scan API|
+
 
 ---
 
