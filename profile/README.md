@@ -19,8 +19,6 @@ This page serves as a **central index** to all available APIs and SDKs.
 Transform user checkout experiences with our intelligent card scanning technology. Let users scan or upload payment cards to automatically extract and validate card data.
 
 
-- **Test Demo:** using your payment card by clicking on the green [Test Live Demo](https://mobicardsystems.com/apis) button.
-
 
 Use Cases:
 
@@ -31,6 +29,8 @@ Use Cases:
 **Back-office onboarding:** Enterprises ingest card details faster and more reliably when adding payment methods to user profiles.
 
 
+
+- **Test Demo:** using your payment card by clicking on the green [Test Live Demo](https://mobicardsystems.com/apis) button.
 
 
 
