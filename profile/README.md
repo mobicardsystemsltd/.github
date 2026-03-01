@@ -46,7 +46,7 @@ Test Demo:
             font-weight:600;
             display:inline-block;">
     Test Live Demo
-  </a> button.
+  </a> button on MobiCard APIs page.
 
   
 With two implementation methods to select from depending on your use case.
