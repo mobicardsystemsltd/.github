@@ -29,7 +29,7 @@ Use Cases:
 
 **Demo:**
 
-- Test using your payment card by clicking on the green <a href="https://mobicardsystems.com/apis" target="_blank" rel="noopener noreferrer">Test Live Demo</a> button.
+- Test using your payment card by clicking on the green [Test Live Demo](https://mobicardsystems.com/apis) button.
 
 
 Use this multi-platform API to enhance your end-user's card checkout experience by letting them scan (or upload) their payment cards. Extract the card number, expiry date, brand information, EXIF data, Risk information and perform validation checks and card tokenization automatically. Code samples are provided.
