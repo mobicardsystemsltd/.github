@@ -13,7 +13,7 @@ This page serves as a **central index** to all available APIs and SDKs.
 ---
 ---
 
-## 🔐 Payment Card Scan API
+## 📷 Payment Card Scan API
 ### MobiCard ScanAPI
 
 Transform user checkout experiences with our intelligent card scanning technology. Let users scan or upload payment cards to automatically extract and validate card data.
@@ -79,7 +79,7 @@ Method 1 accepts the actual image file ('mobicard_scan_card_photo') as multipart
 ---
 ---
 
-## 💳 Tokenization API
+## 🔐 Tokenization API
 ### MobiToken API
 
 Dramatically reduce your PCI DSS compliance scope by replacing sensitive card data with secure, processor-agnostic cryptographic tokens that can't be reverse-engineered.
