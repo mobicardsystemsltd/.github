@@ -30,10 +30,21 @@ Use Cases:
 
 
 Use this multi-platform API to enhance your end-user's card checkout experience by letting them scan (or upload) their payment cards. Extract the card number, expiry date, brand information, EXIF data, Risk information and perform validation checks and card tokenization automatically. Code samples are provided.
+
+
 Test Demo:
 
-- Test using your payment card by clicking on the green 
-  <a href="https://mobicardsystems.com/apis" target="_blank" rel="noopener noreferrer">
+- Test using your payment card by clicking on the green
+  <a href="https://mobicardsystems.com/apis"
+     target="_blank"
+     rel="noopener noreferrer"
+     style="background-color:#2ea44f;
+            color:white;
+            padding:8px 14px;
+            text-decoration:none;
+            border-radius:6px;
+            font-weight:600;
+            display:inline-block;">
     Test Live Demo
   </a> button.
 
