@@ -18,6 +18,10 @@ This page serves as a **central index** to all available APIs and SDKs.
 
 Transform user checkout experiences with our intelligent card scanning technology. Let users scan or upload payment cards to automatically extract and validate card data.
 
+
+- **Test Demo:** using your payment card by clicking on the green [Test Live Demo](https://mobicardsystems.com/apis) button.
+
+
 Use Cases:
 
 **E-commerce checkout:** Allow users to use their device camera to scan their card instead of manually typing card numbers.
@@ -28,8 +32,6 @@ Use Cases:
 
 
 
-
-- **Test Demo:** using your payment card by clicking on the green [Test Live Demo](https://mobicardsystems.com/apis) button.
 
 
 Use this multi-platform API to enhance your end-user's card checkout experience by letting them scan (or upload) their payment cards. Extract the card number, expiry date, brand information, EXIF data, Risk information and perform validation checks and card tokenization automatically. Code samples are provided.
