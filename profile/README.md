@@ -29,12 +29,12 @@ Use Cases:
 **Back-office onboarding:** Enterprises ingest card details faster and more reliably when adding payment methods to user profiles.
 
 
+Use this multi-platform API to enhance your end-user's card checkout experience by letting them scan (or upload) their payment cards. Extract the card number, expiry date, brand information, EXIF data, Risk information and perform validation checks and card tokenization automatically. Code samples are provided.
+
 
 - **Test Demo:** using your payment card by clicking on the green [Test Live Demo](https://mobicardsystems.com/apis) button.
 
 
-
-Use this multi-platform API to enhance your end-user's card checkout experience by letting them scan (or upload) their payment cards. Extract the card number, expiry date, brand information, EXIF data, Risk information and perform validation checks and card tokenization automatically. Code samples are provided.
 
 With two implementation methods to select from depending on your use case.
 
